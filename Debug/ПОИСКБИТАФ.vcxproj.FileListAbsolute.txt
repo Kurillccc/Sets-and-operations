@@ -1,0 +1,24 @@
+C:\Users\pk\Desktop\Языки и МП\ПОИСКБИТАФ\Debug\ПОИСКБИТАФ.vcxproj.AssemblyReference.cache
+C:\Users\pk\Desktop\Языки и МП\ПОИСКБИТАФ\Debug\ПОИСКБИТАФ.exe
+C:\Users\pk\Desktop\Языки и МП\ПОИСКБИТАФ\Debug\ПОИСКБИТАФ.MyForm.resources
+C:\Users\pk\Desktop\Языки и МП\ПОИСКБИТАФ\Debug\ПОИСКБИТАФ.vcxproj.GenerateResource.cache
+D:\Языки и МП\ПОИСКБИТАФ\Debug\ПОИСКБИТАФ.vcxproj.AssemblyReference.cache
+D:\Языки и МП\ПОИСКБИТАФ\Debug\ПОИСКБИТАФ.MyForm.resources
+D:\Языки и МП\ПОИСКБИТАФ\Debug\ПОИСКБИТАФ.vcxproj.GenerateResource.cache
+D:\Языки и МП\ПОИСКБИТАФ\Debug\ПОИСКБИТАФ.exe
+D:\Desktop\ПОИСКБИТАФ\Debug\ПОИСКБИТАФ.vcxproj.AssemblyReference.cache
+D:\Desktop\ПОИСКБИТАФ\Debug\ПОИСКБИТАФ.MyForm.resources
+D:\Desktop\ПОИСКБИТАФ\Debug\ПОИСКБИТАФ.vcxproj.GenerateResource.cache
+D:\Desktop\ПОИСКБИТАФ\Debug\ПОИСКБИТАФ.exe
+C:\Users\ITMM-230038\Desktop\Система операций над множествами\Debug\ПОИСКБИТАФ.vcxproj.AssemblyReference.cache
+C:\Users\ITMM-230038\Desktop\Система операций над множествами\Debug\ПОИСКБИТАФ.MyForm.resources
+C:\Users\ITMM-230038\Desktop\Система операций над множествами\Debug\ПОИСКБИТАФ.vcxproj.GenerateResource.cache
+C:\Users\ITMM-230038\Desktop\Система операций над множествами\Debug\ПОИСКБИТАФ.exe
+D:\Desktop\Система операций над множествами\Debug\ПОИСКБИТАФ.vcxproj.AssemblyReference.cache
+D:\Desktop\Система операций над множествами\Debug\ПОИСКБИТАФ.MyForm.resources
+D:\Desktop\Система операций над множествами\Debug\ПОИСКБИТАФ.vcxproj.GenerateResource.cache
+D:\Desktop\Система операций над множествами\Debug\ПОИСКБИТАФ.exe
+D:\Desktop\_\Лабы по алгоритмам\Лаба 1\Система операций над множествами\Debug\ПОИСКБИТАФ.vcxproj.AssemblyReference.cache
+D:\Desktop\_\Лабы по алгоритмам\Лаба 1\Система операций над множествами\Debug\ПОИСКБИТАФ.MyForm.resources
+D:\Desktop\_\Лабы по алгоритмам\Лаба 1\Система операций над множествами\Debug\ПОИСКБИТАФ.vcxproj.GenerateResource.cache
+D:\Desktop\_\Лабы по алгоритмам\Лаба 1\Система операций над множествами\Debug\ПОИСКБИТАФ.exe
